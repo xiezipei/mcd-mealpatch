@@ -1,0 +1,12 @@
+{
+  "source": "2026-10-11 17:17 北京时间，广州高唐路餐厅官方核价历史快照；非实时",
+  "products": {
+    "1100": {"productCode":"1100","name":"巨无霸","baseline_cents":2600},
+    "1440": {"productCode":"1440","name":"麦辣鸡腿汉堡","baseline_cents":2250},
+    "4810": {"productCode":"4810","name":"中薯条","baseline_cents":1450},
+    "1406": {"productCode":"1406","name":"板烧鸡腿堡","baseline_cents":2350},
+    "4437": {"productCode":"4437","name":"小杯玉米杯","baseline_cents":1300}
+  },
+  "before": {"price":8650,"productList":[{"productCode":"1100","quantity":1,"subtotal":2600},{"productCode":"1440","quantity":1,"subtotal":2250},{"productCode":"4810","quantity":1,"subtotal":1450},{"productCode":"1406","quantity":1,"subtotal":2350}]},
+  "after": {"price":8500,"productList":[{"productCode":"1100","quantity":1,"subtotal":2600},{"productCode":"1440","quantity":1,"subtotal":2250},{"productCode":"4437","quantity":1,"subtotal":1300},{"productCode":"1406","quantity":1,"subtotal":2350}]}
+}
